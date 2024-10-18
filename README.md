@@ -7,8 +7,7 @@ A weather monitoring system using Arduino typically consists of several componen
 2. **Sensors**:
    - **DHT11/DHT22**: For measuring temperature and humidity.
    - **BMP180/BMP280**: For barometric pressure and altitude.
-   - **Anemometer**: For measuring wind speed.
-   - **Rain Gauge**: For measuring precipitation.
+  
 
 3. **Display Module**: An LCD or OLED screen to display the readings locally.
 
@@ -16,9 +15,6 @@ A weather monitoring system using Arduino typically consists of several componen
    - **SD Card Module**: To store data for later analysis.
    - **Real-Time Clock (RTC)**: To timestamp the data entries.
 
-5. **Communication Module** (optional):
-   - **Wi-Fi (ESP8266/ESP32)**: For sending data to a server or cloud service.
-   - **Bluetooth**: For local communication with smartphones.
 
 ### Basic Setup
 
